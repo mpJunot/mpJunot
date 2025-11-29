@@ -1,5 +1,5 @@
 <a href="https://github.com/mpjunot/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mpjunot&show_icons=true&include_all_commits=true&theme=algolia" alt="Mathias github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mpjunot&show_icons=true&include_all_commits=true&theme=algolia" alt="Junot github stats" />
 </a>
 
 
