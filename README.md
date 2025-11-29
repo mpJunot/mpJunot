@@ -6,12 +6,10 @@ Passionate about creating innovative web solutions and exploring the full spectr
 
 ---
 
-<a href="https://github.com/mpjunot/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mpjunot&show_icons=true&include_all_commits=true&theme=algolia" alt="Junot github stats" />
-</a>
+## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mpjunot&layout=compact&theme=algolia" />
-</a>
-<img src="6nd1vmirw0q01.gif" height="400" width="400"/>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mpjunot&show_icons=true&include_all_commits=true&theme=dracula" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mpjunot&layout=compact&theme=dracula" />
+</div>
